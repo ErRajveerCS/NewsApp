@@ -1,0 +1,8 @@
+node_modules/
+.next/
+data/news.db
+data/news.db-shm
+data/news.db-wal
+.env.local
+public/uploads/*
+!public/uploads/.gitkeep
