@@ -244,3 +244,5 @@ data/news.db      → local dev database (created on first run; not used in prod
 
 Optional `Dockerfile` is included for anyone who prefers Docker-based hosting (e.g.
 Render's "Docker" runtime, or Fly.io) — not required for the Render setup above.
+
+
